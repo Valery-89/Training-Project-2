@@ -1,1 +1,1 @@
-A training project
+A training project #2
